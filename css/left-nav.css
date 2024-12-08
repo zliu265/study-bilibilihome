@@ -1,0 +1,19 @@
+.nav{
+    padding-left: 28px;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    padding: 0 24px;
+}
+
+.left-nav{
+    display: flex;
+}
+
+.left-nav .entry-nav{
+    display: flex;
+    height: 64px;
+    padding-right: 24px;
+    color: #fff;
+    background-color: black;
+}
