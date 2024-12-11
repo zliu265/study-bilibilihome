@@ -9,5 +9,16 @@ ul, ol, li{
 
 a{
     text-decoration: none;
+    color: #000;
     cursor: pointer;
+}
+
+body{
+    background-color: burlywood;
+    font-size: 14px;
+}
+
+input{
+    border: 0 none;
+    outline-style: none;
 }
